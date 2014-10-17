@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fue:home|Door43 (fue)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fue|d43-fue repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fue/archive/master.zip|d43-fue.zip]]
+
+**Recent Changes**
+{{changes>ns = fue}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fue|Ethnologue data]]
+
